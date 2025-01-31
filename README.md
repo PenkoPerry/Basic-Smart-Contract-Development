@@ -124,5 +124,5 @@ The contract includes checks to ensure valid transfers and approvals, ensuring u
 
 # Output : 
 
-
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/ee4203f4-54df-43b3-abc6-b7284201046d" />
 
