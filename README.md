@@ -122,7 +122,6 @@ Security Considerations:
 The smart contract is designed with security best practices, ensuring that there are no obvious vulnerabilities such as reentrancy attacks or unvalidated inputs.
 The contract includes checks to ensure valid transfers and approvals, ensuring users cannot perform transactions with invalid or insufficient funds.
 
-
 # Output : 
 
 
