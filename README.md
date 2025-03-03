@@ -53,3 +53,6 @@ Deploy it on a real network (Polygon, Ethereum, or Binance Smart Chain).
 
 <img width="244" alt="Image" src="https://github.com/user-attachments/assets/c6392872-13f6-4ecf-b37f-3c84025d5de3" />
 
+
+<img width="270" alt="Image" src="https://github.com/user-attachments/assets/add0b887-93c0-4e84-98df-e64394227736" />
+
