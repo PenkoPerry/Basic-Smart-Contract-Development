@@ -50,3 +50,6 @@ Implement an ERC-20 compliant version using OpenZeppelin for better security and
 Deploy it on a real network (Polygon, Ethereum, or Binance Smart Chain).
 
 
+
+<img width="244" alt="Image" src="https://github.com/user-attachments/assets/c6392872-13f6-4ecf-b37f-3c84025d5de3" />
+
